@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/4/4a/Facx20_315_04a-0029.jpg/revision/latest?cb=20181204193743",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/b/b8/Facx20_649_02-0050.jpg/revision/latest?cb=20181204193742",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/d/d9/Hacx08_367_02-0438.jpg/revision/latest?cb=20181217224500",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/7/73/Hacx08_366_04-0350.jpg/revision/latest?cb=20181217224500",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/7/73/Hacx08_311_04-0413.jpg/revision/latest?cb=20181217224459",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/1/14/Brochures_aren%27t_there.png/revision/latest?cb=20130110224558",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/2/25/Brochures_are_there.png/revision/latest?cb=20130110224533",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/3/39/Hacx08_340b_03-0413r.jpg/revision/latest?cb=20181217224459",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/a/a6/Hacx08_059_02-0037.jpg/revision/latest?cb=20181217224459",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/e/e8/Aacx08_042_0075.jpg/revision/latest?cb=20121218031108",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/9/91/Aacx08_631_0047.jpg/revision/latest?cb=20121218031109",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/0/00/Aacx09_081_02_0007.jpg/revision/latest?cb=20130117015946",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/f/f9/Aacx09_357_02_0087.jpg/revision/latest?cb=20130117015946",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/1/1e/Hacx08_027_02-0016.jpg/revision/latest?cb=20181217224458",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/6/68/Hacx08_038_02a-0165.jpg/revision/latest?cb=20181217224459",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/5/57/Aacx09_615_02_0041.jpg/revision/latest?cb=20130117015946",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/f/f9/Aacx08_014_0077.jpg/revision/latest?cb=20121218031108",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "https://vignette.wikia.nocookie.net/familyguy/images/a/ac/Hacx08_019_03a-0299.jpg/revision/latest?cb=20181217224458",
+    "clicked": false
+  }
+]
