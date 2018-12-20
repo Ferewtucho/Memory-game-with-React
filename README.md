@@ -2,7 +2,7 @@
 
 
 <img src = "./img/Screen-Shot.png" alt = "fam-clicky">
-<br>
+
 <hr>
 Memory game build using React JS library. Components state is managed to respond to user events.
 
