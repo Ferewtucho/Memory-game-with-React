@@ -20,7 +20,7 @@ Memory game build using React JS library. Components state is managed to respond
 <li>CSS</li>
 </ul>
 <hr>
-<h6>Game is deployed to heroku. Here is the link <a href = "https://nameless-bayou-97416.herokuapp.com/" target="_blank">clicky-game</a></h6>
+<h6>View the deployed Application <a href = "https://nameless-bayou-97416.herokuapp.com/" target="_blank">here</a>.</h6>
 
 <h6>This project was bootstrapped with <a href = "https://github.com/facebook/create-react-app" target = "_blank">Create React App</>a.</h6>
 
