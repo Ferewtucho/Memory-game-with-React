@@ -17,7 +17,6 @@ class App extends Component {
     this.state.friends.forEach(image => {
       if (image.id === id) {
         if (image.cliked) {
-          // $("#myModal").modal('toggle');
           alert("YOU LOST!! This card was previously selected.");
           this.setState({});
           this.resetGame();
