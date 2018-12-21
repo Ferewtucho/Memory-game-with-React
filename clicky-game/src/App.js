@@ -100,7 +100,7 @@ class App extends Component {
             );
           })}
         </Wrapper>
-        <div className="footer" />
+        {/* <div className="footer" /> */}
       </div>
     );
   }

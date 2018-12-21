@@ -10,5 +10,9 @@ body,
   padding: 0;
   margin: 0;
   height: 100%;
-  background: #cce6fd;
+  /* background: #cce6fd; */
+}
+body {
+  background-image: url("./img/ryoji-iwata-669950-unsplash.jpg");
+  margin: 0;
 }
